@@ -43,7 +43,7 @@ query LayoutQuery {
       }
     }
     background: imageSharp(id: {regex: "/bg.jpeg/"}) {
-      sizes(maxWidth: 1240, grayscale: true) {
+      sizes(maxWidth: 1240) {
         ...GatsbyImageSharpSizes
       }
     }
