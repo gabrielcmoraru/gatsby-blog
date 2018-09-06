@@ -26,7 +26,10 @@ query SiteMeta {
           id
           frontmatter {
             title
-            date(formatString: "MMMM DD YYYY")
+            date(formatString: "DD-MMMM YYYY")
+          }
+          fields {
+            slug
           }
           html
           excerpt
