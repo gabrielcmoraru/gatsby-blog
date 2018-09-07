@@ -1,5 +1,6 @@
-backend: 
-  name: test-repo
+backend:
+  name: github
+  repo: gabrielcmoraru/gatsby-blog
 
 media_folder: static/assets
 
