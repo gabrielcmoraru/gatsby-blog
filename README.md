@@ -1,3 +1,6 @@
+## Netlify CMS -> [Simple Build](https://gatsby-blog-markdown.netlify.com/)
+## Contenful CMS -> [Simple Build](https://gatsby-blog-contentful.netlify.com/)
+
 <p align="center">
   <a href="https://next.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
