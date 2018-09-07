@@ -1,6 +1,6 @@
-import React from 'react'
-import Link from 'gatsby-link'
-import PostListing from '../components/Posts/PostListing'
+import React from 'react';
+import Link from 'gatsby-link';
+import PostListing from '../components/Posts/PostListing';
 
 const IndexPage = ({data}) => (
   <div>
@@ -10,7 +10,7 @@ const IndexPage = ({data}) => (
   </div>
 )
 
-export default IndexPage
+export default IndexPage;
 
 export const query = graphql`
 query SiteMeta {
